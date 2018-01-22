@@ -1,0 +1,38 @@
+.selectionComponent {
+  padding-top: 20px;
+}
+
+.imgHolder {
+  width: 50%;
+  margin-right: 30px;
+  float:left;
+}
+.prodDetail {
+  width: 50%;
+  float:left;
+}
+.prodTitle {
+  text-align: center;
+  font-size: 26px;
+}
+
+.prodDsc {
+  padding: 5px;
+  text-align: center;
+}
+
+.prodPrice{
+  text-align: center;
+  font-weight: bold;
+}
+
+.addButton{
+  padding: 5px;
+  float:none;
+  clear:both;
+}
+.cantButton{
+  padding: 5px;
+  float:none;
+  clear:both;
+}

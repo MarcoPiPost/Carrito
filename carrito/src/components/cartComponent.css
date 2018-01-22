@@ -1,0 +1,13 @@
+.cartComponent {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.deleteButton{
+  padding: 5px;
+  float:right;
+  align: right;
+  display: block;
+}
